@@ -1,0 +1,2 @@
+# Tesla_GameStop_Stock_Revenue_Analysis
+Python project_Tesla_GameStop_Stock_Revenue_Analysis_Dashboard
